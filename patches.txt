@@ -2,3 +2,18 @@
 hide-my-mix
 
 # INCLUDE PATCHES FROM BELOW. DO NOT REMOVE THIS LINE
+amoled
+disable-create-button
+downloads
+microg-support
+settings
+seekbar-tapping
+swipe-controls
+client-spoof
+hide-watermark
+sponsorblock
+hide-autoplay-button
+old-quality-layout
+video-ads
+general-ads
+old-quality-layout
