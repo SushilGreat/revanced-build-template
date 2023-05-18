@@ -15,4 +15,16 @@ hide-autoplay-button
 old-quality-layout
 video-ads
 general-ads
-old-quality-layout
+exclusive-background-playback
+premium-heading
+hide-breaking-news-shelf
+disable-shorts-on-startup
+custom-video-speed
+copy-video-url
+hide-endscreen-cards
+premium-heading
+hide-email-address
+return-youtube-dislike
+hide-watermark
+hide-watch-in-vr
+vanced-microg-support
